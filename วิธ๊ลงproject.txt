@@ -1,0 +1,10 @@
+howto ลงโปรเจค 
+
+ลงที่ htdocs ใช้ xampp 
+แก้ไขเปิดไฟล์ผ่าน vs code 
+http://localhost/Cyber-Attack-Simulation/setup.php 
+
+สร้าง ดาต้าเบสในหน้าเว็ป 
+login ในหน้าเว็ป
+username admin
+pass password
